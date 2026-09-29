@@ -56,7 +56,7 @@ The App is designed to function strictly as an offline chord reference, lyric vi
 - **No Contacts or Phone State:** The App does not read your device contacts, phone status, or system accounts.
 
 ### C. Local On-Device Storage (Preferences & Offline Data)
-The App stores non-personal configuration data locally on your device within the secure OS sandbox using `SharedPreferences` and local SQLite storage (`sqflite`). This data never leaves your device:
+The App stores non-personal configuration data locally on your device within the secure OS sandbox using local storage. This data never leaves your device:
 - **Display & Interface Preferences:** Light mode, dark mode, or system default; user-selected Material 3 seed color preset or custom hex color.
 - **Musical Preferences:** Preferred accidental notation (Sharps `#` vs. Flats `♭`), default auto-scroll speed for lyrics.
 - **Favorites & Bookmarks:** List of song IDs marked as favorites by you for quick access.
@@ -138,7 +138,7 @@ Our App is safe for users of all ages and is suitable for musical education and 
 
 - We **do not knowingly collect, request, or maintain** personal information from children under the age of 13 (or under 16 in the European Economic Area / UK), in strict compliance with the **Children’s Online Privacy Protection Act (COPPA)**, the **EU General Data Protection Regulation (GDPR)**, and Google Play's **Families Policy**.
 - Because no personal information is solicited, collected, or transmitted by the App, children can practice and learn guitar chords without privacy risks.
-- If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at **[your-support-email@example.com]**, and we will take immediate steps to address your concern.
+- If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at **[amila.champlnx@gmail.com]**, and we will take immediate steps to address your concern.
 
 ---
 
